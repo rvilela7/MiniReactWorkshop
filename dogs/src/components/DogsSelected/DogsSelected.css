@@ -1,0 +1,9 @@
+.isSelected {
+  margin-top: 50px;
+  color: green;
+}
+
+.isNotSelected {
+  margin-top: 50px;
+  color: orangered;
+}
