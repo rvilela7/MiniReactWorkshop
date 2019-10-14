@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 //import dogs from './data/dogs';
-import { exportAllDeclaration } from '@babel/types';
+//import { exportAllDeclaration } from '@babel/types';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');
